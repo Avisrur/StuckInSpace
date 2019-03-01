@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E1456745-ED92-4EB6-8905-E64DC1E47277}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/EthanScript.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/EthanScript.cs" Line="59" Column="43" />
+      <File FileName="Assets/Scenes/Scripts/HitScript.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scenes/Scripts/CoinCollect.cs" Line="16" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
