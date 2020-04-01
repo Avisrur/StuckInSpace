@@ -1,2 +1,2 @@
 # StuckInSpace
-Gaming project
+School Unity gaming project
